@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Shivam Tiwari
+#                                                                               👋 Hi, I’m Shivam Tiwari
 
 🎓 3rd Year CSE Student @ Chandigarh University  
 💡 Learning Full-Stack Development | Exploring Cloud Computing  
