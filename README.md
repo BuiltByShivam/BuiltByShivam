@@ -33,7 +33,7 @@ An interactive college guide website with **clickable campus maps**, **tabbed de
 ### 🛡️ AISM – Advance Integrated Safety Monitoring Device *(Completed)*  
 An IoT-based smart device combining **hazard detection** (gas, fire) and **live CCTV monitoring** for enhanced environmental safety.  
 > ⚙️ Tools: Arduino Uno, ESP32, Ultrasonic, Fire/Gas Sensors  
-> 🏆 Ranked Top 10 at Project Expo 2025 (out of 100+ teams)
+> 🏆 Ranked Top 10 at Project Expo 2025 (out of 250+ teams)
 
 ---
 
