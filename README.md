@@ -5,7 +5,7 @@
 
 ### Software Developer | C++ | Java | Full Stack Development
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Software;Solving+DSA+Problems;Exploring+AI+%26+Cloud+Computing;Turning+Ideas+Into+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Software;Mastering+Problem+Solving;Exploring+AI+%26+Cloud+Computing;Turning+Ideas+Into+Projects" />
 
 <p>
   <a href="https://github.com/BuiltByShivam">
@@ -68,34 +68,34 @@
 
 ### 📦 Smart Inventory Management System
 
-A full-stack inventory management application built to streamline product management, inventory tracking and stock operations through an interactive web interface.
+A full-stack application for efficient product and inventory management.
 
 **Highlights**
 - Product CRUD operations
-- Inventory and stock tracking
-- Product search functionality
+- Stock tracking
+- Product search
 - User management
-- REST API-based backend integration
-- Interactive React dashboard
+- Interactive dashboard
+- REST API integration
 
 **Tech Stack**
 
-`React` `Vite` `Tailwind CSS` `Spring Boot` `Java` `MySQL` `Axios` `REST APIs`
+`React` `Vite` `Tailwind CSS` `Spring Boot` `Java` `MySQL` `Axios`
 
 </td>
 <td width="50%">
 
 ### 📊 Sorting Visualizer
 
-An interactive desktop application that visualizes sorting algorithms through real-time animations and dynamic array representations.
+A desktop application visualizing sorting algorithms through real-time animations.
 
 **Highlights**
 - Interactive sorting visualization
-- Real-time animation of array operations
-- Dynamic value display
-- Multiple sorting algorithms and modes
+- Real-time animations
+- Dynamic array display
+- Multiple sorting algorithms
 - Thread-safe architecture
-- Smooth UI updates using JavaFX
+- Smooth JavaFX interface
 
 **Tech Stack**
 
@@ -109,42 +109,38 @@ An interactive desktop application that visualizes sorting algorithms through re
 
 ### 🧪 Automated Software Testing Platform
 
-An AI-assisted software testing application designed to simplify test generation, execution and coverage analysis. Integrates AI-powered testing workflows with traditional automated testing tools to improve software quality and reduce repetitive testing effort.
+An AI-assisted platform for automated test generation and software quality analysis.
 
 **Highlights**
-- AI-assisted automated test generation
-- Gemini API integration for intelligent testing workflows
-- Backend services built using Spring Boot
-- React-based frontend for test management and interaction
-- JUnit 5-based testing framework
-- JaCoCo integration for code coverage analysis
-- MySQL database integration
-- REST API-based frontend/backend communication
+- AI-assisted test generation
+- Gemini API integration
+- Automated test execution
+- Code coverage analysis
+- Interactive React interface
+- REST-based backend
 
 **Tech Stack**
 
-`Java` `Spring Boot` `React` `Vite` `Tailwind CSS` `MySQL` `Gemini API` `JUnit 5` `JaCoCo` `REST APIs`
+`Java` `Spring Boot` `React` `Vite` `Tailwind CSS` `MySQL` `Gemini API` `JUnit 5` `JaCoCo`
 
 </td>
 <td width="50%">
 
 ### 🎯 Exam Maker & AI Study Assistant
 
-An AI-powered exam preparation platform that transforms question papers into interactive mock examinations and provides intelligent assistance for learning and revision.
+An AI-powered platform for creating mock exams and smarter exam preparation.
 
 **Highlights**
-- Upload question papers and answer keys in PDF format
-- Generate interactive mock tests from uploaded papers
-- Timed examination environment
-- Automated scoring and performance analysis
-- Subject/topic-wise performance insights
-- AI-generated explanations for questions
-- Review incorrect answers and improve preparation
-- Browser-based exam experience
+- PDF question paper uploads
+- Interactive mock examinations
+- Timed exam environment
+- Automated scoring
+- Performance analysis
+- AI-powered explanations
 
 **Tech Stack**
 
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Google Gemini API` `IndexedDB`
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Gemini API` `IndexedDB`
 
 </td>
 </tr>
@@ -183,10 +179,6 @@ An AI-powered exam preparation platform that transforms question papers into int
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BuiltByShivam&theme=tokyonight" />
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BuiltByShivam&theme=tokyonight" />
-
-### Contribution Activity
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BuiltByShivam&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
