@@ -28,11 +28,11 @@
 🧠 Strong foundation in DSA, OOP, DBMS & Core Computer Science  
 ☁️ Interested in AI, Cloud Computing & Scalable Systems  
 
-- 🔭 Working on projects that combine software engineering and practical problem-solving.
-- 💡 Enjoy building applications with clean architecture and intuitive interfaces.
-- 🏆 NPTEL Cloud Computing – Top 5% Nationwide
-- 🥇 NCAT 2025 – All India Rank 178
-- 🎯 Looking forward to contributing to impactful software products.
+- 🔭 Building applications that solve real-world problems.
+- 💡 Interested in clean architecture, efficient algorithms and intuitive interfaces.
+- 🏆 NPTEL Cloud Computing – Top 5% Nationwide.
+- 🥇 NCAT 2025 – All India Rank 178.
+- 🎯 Always looking for opportunities to build impactful software.
 
 ---
 
@@ -68,64 +68,83 @@
 
 ### 📦 Smart Inventory Management System
 
-A full-stack inventory management application designed to simplify product and stock management.
+A full-stack inventory management application built to streamline product management, inventory tracking and stock operations through an interactive web interface.
 
 **Highlights**
 - Product CRUD operations
-- Stock tracking
-- Search functionality
+- Inventory and stock tracking
+- Product search functionality
 - User management
+- REST API-based backend integration
+- Interactive React dashboard
 
 **Tech Stack**
 
-`React` `Spring Boot` `MySQL`
+`React` `Vite` `Tailwind CSS` `Spring Boot` `Java` `MySQL` `Axios` `REST APIs`
 
 </td>
 <td width="50%">
 
 ### 📊 Sorting Visualizer
 
-An interactive desktop application that brings sorting algorithms to life through real-time animations.
+An interactive desktop application that visualizes sorting algorithms through real-time animations and dynamic array representations.
 
 **Highlights**
-- Dynamic array visualization
-- Real-time sorting animations
-- Multiple sorting algorithms
-- Thread-safe animation architecture
+- Interactive sorting visualization
+- Real-time animation of array operations
+- Dynamic value display
+- Multiple sorting algorithms and modes
+- Thread-safe architecture
+- Smooth UI updates using JavaFX
 
 **Tech Stack**
 
-`Java` `JavaFX` `Multithreading`
+`Java` `JavaFX` `Multithreading` `Concurrency`
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-### 🧪 Automated Software Testing
+### 🧪 Automated Software Testing Platform
 
-A capstone project focused on automating software testing using AI-assisted workflows.
+An AI-assisted software testing application designed to simplify test generation, execution and coverage analysis. Integrates AI-powered testing workflows with traditional automated testing tools to improve software quality and reduce repetitive testing effort.
+
+**Highlights**
+- AI-assisted automated test generation
+- Gemini API integration for intelligent testing workflows
+- Backend services built using Spring Boot
+- React-based frontend for test management and interaction
+- JUnit 5-based testing framework
+- JaCoCo integration for code coverage analysis
+- MySQL database integration
+- REST API-based frontend/backend communication
 
 **Tech Stack**
 
-`Spring Boot` `React` `MySQL` `Gemini` `JUnit 5` `JaCoCo`
+`Java` `Spring Boot` `React` `Vite` `Tailwind CSS` `MySQL` `Gemini API` `JUnit 5` `JaCoCo` `REST APIs`
 
 </td>
 <td width="50%">
 
-### 🎯 GATEPREP AI
+### 🎯 Exam Maker & AI Study Assistant
 
-An AI-powered GATE preparation platform designed to convert question papers into interactive mock tests.
+An AI-powered exam preparation platform that transforms question papers into interactive mock examinations and provides intelligent assistance for learning and revision.
 
 **Highlights**
-- PDF-based question paper processing
-- Timed mock examinations
-- Automated scoring
-- AI-powered explanations
+- Upload question papers and answer keys in PDF format
+- Generate interactive mock tests from uploaded papers
+- Timed examination environment
+- Automated scoring and performance analysis
+- Subject/topic-wise performance insights
+- AI-generated explanations for questions
+- Review incorrect answers and improve preparation
+- Browser-based exam experience
 
 **Tech Stack**
 
-`Next.js` `React` `Tailwind CSS` `Gemini API`
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Google Gemini API` `IndexedDB`
 
 </td>
 </tr>
@@ -139,7 +158,7 @@ An AI-powered GATE preparation platform designed to convert question papers into
 
 | Achievement | Recognition |
 |:---|:---:|
-| NPTEL Cloud Computing | 🏅 Top 5% |
+| NPTEL Cloud Computing | 🏅 Top 5% Nationwide |
 | NCAT 2025 | 🥇 AIR 178 |
 | AISM Project Expo 2025 | 🏆 Top 10 / 250+ Teams |
 
@@ -151,11 +170,23 @@ An AI-powered GATE preparation platform designed to convert question papers into
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=BuiltByShivam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+### Profile Overview
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiltByShivam&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BuiltByShivam&theme=tokyonight" />
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=BuiltByShivam&theme=tokyonight&hide_border=true" />
+### GitHub Statistics
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BuiltByShivam&theme=tokyonight" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BuiltByShivam&theme=tokyonight&utcOffset=5.5" />
+
+### Most Used Languages
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BuiltByShivam&theme=tokyonight" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BuiltByShivam&theme=tokyonight" />
+
+### Contribution Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BuiltByShivam&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
